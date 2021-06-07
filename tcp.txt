@@ -1,0 +1,2 @@
+Connection oriented, reliable, synchronous
+Layer 4
